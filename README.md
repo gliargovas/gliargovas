@@ -8,7 +8,7 @@ I hold a Bachelor's Degree from **Department of Management Science and Technolog
 
 🔍 **Research Interests**:
 - **Computer Systems** (focusing on distributed systems, scheduling, concurrency, file systems & kernel-level programming)
-- **Empirical Software** Engineering (particularly software analytics and mining software repositories)
+- **Empirical Software Engineering** (particularly software analytics and mining software repositories)
 - **Programming Languages** (with an affinity for compilers & program analysis)
 - **Machine Learning** and its convergence with the fields above.
 
