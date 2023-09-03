@@ -28,6 +28,7 @@ I hold a Bachelor's Degree from **Department of Management Science and Technolog
 - **Jun 2023**: [binpash/try](https://github.com/binpash/try) ascends to the top of Hacker News, securing 4500+ GitHub stars!
 - **Jun 2023**: Excited to serve as Co-Chair for Web Presence at [Mining Software Repositories 2024 (MSR '24)](https://2024.msrconf.org/venue/icse-2024-venue).
 - **Apr 2023**: Our paper on [the speculative shell](https://dl.acm.org/doi/10.1145/3593856.3595891) gets the nod for *HotOS '23*!
+- **Mar 2023**: Graduated with Distinction from my BSc at AUEB.
 - **Oct 2022**: Embarked on a Research Assistantship at Brown University.
 - **Aug 2022**: Software Engineering Education vs Industrial Needs published in *IEEE Transactions on Education*.
 
