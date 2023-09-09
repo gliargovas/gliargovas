@@ -34,7 +34,3 @@ I hold a Bachelor's Degree from **Department of Management Science and Technolog
 #### 📚 Select Publications:
 - **Executing Shell Scripts in the Wrong Order, Correctly**, HotOS '23 [DOI](https://doi.org/10.1145/3593856.3595891)
 - **Software Engineering Education Knowledge vs Industrial Needs**, IEEE Transactions on Education, 2022 [DOI](https://doi.org/10.1109/TE.2021.3123889)
-
----
-
-*Thanks for stopping by!* 💙
