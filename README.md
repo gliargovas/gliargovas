@@ -4,7 +4,6 @@
 I hold a Bachelor's Degree from **Department of Management Science and Technology** of **Athens University of Economics and Business** (AUEB), Greece. My journey has taken me through research related to software engineering, computer systems, and more, under the guidance of [Prof. Diomidis Spinellis](https://www2.dmst.aueb.gr/dds/) at [BALab](https://www.balab.aueb.gr/). I've also had the privilege to work at **Brown University's Computer Science Department** on the [PaSh project](https://github.com/pash-project/pash) (a shell-script parallelization initiative backed by the Linux Foundation) under [Prof. Nikos Vasilakis](https://nikos.vasilak.is/).
 
 🌐 For a more detailed overview of my work and journey, check out [my personal website](https://gliargovas.github.io)!<br>
-🎓 I'm excitedly gearing up to apply for PhD programs this fall. Looking forward to diving deeper into research and making meaningful contributions.
 
 🔍 **Research Interests**:
 - **Computer Systems** (focusing on distributed systems, scheduling, concurrency, file systems & kernel-level programming)
