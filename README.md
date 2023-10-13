@@ -6,7 +6,7 @@ I hold a Bachelor's Degree from **Department of Management Science and Technolog
 🌐 For a more detailed overview of my work and journey, check out [my personal website](https://gliargovas.github.io)!<br>
 
 🔍 **Research Interests**:
-- **Computer Systems** (focusing on distributed systems, scheduling, concurrency, file systems & kernel-level programming)
+- **Computer Systems** (focusing on distributed & serverless systems, scheduling, concurrency and file systems)
 - **Empirical Software Engineering** (particularly software analytics and mining software repositories)
 - **Programming Languages** (with an affinity for compilers & program analysis)
 - **Machine Learning** and its convergence with the fields above.
@@ -15,7 +15,7 @@ I hold a Bachelor's Degree from **Department of Management Science and Technolog
 
 🏞️ **Personal Interests**:
 - Long-distance Running & Cycling 🚴‍♂️🏃 (Catch me on [Strava](https://www.strava.com/dashboard))
-- Curating Music Playlists 🎶 (Especially, Classic Rock, Indie, Jazz, and more)
+- Curating Music Playlists 🎶 (Especially Classic Rock and Indie Rock)
 
 📩 **Connect with Me**: 
 - Email: gliargovas [at] aueb [dot] gr
