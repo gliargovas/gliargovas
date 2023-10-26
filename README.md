@@ -6,10 +6,8 @@ I hold a Bachelor's Degree from **Department of Management Science and Technolog
 🌐 For a more detailed overview of my work and journey, check out [my personal website](https://gliargovas.github.io)!<br>
 
 🔍 **Research Interests**:
-- **Computer Systems** (focusing on distributed & serverless systems, scheduling, concurrency and file systems)
-- **Empirical Software Engineering** (particularly software analytics and mining software repositories)
-- **Programming Languages** (with an affinity for compilers & program analysis)
-- **Machine Learning** and its convergence with the fields above.
+- **Computer Systems**: distributed & serverless systems design, implementation and dynamic optimization (scheduling and load balancing).
+- **Programming Languages**: compilers & program analysis for script performance optimizations.
 
 🤝 I cherish intellectual discussions, knowledge exchange, and collaboration. Whether it's the above topics or anything else, feel free to strike up a conversation!
 
