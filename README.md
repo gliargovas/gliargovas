@@ -7,7 +7,7 @@ I hold a Bachelor's Degree from **Department of Management Science and Technolog
 
 🔍 **Research Interests**:
 - **Computer Systems**: distributed & serverless systems design, implementation and dynamic optimization (scheduling and load balancing).
-- **Programming Languages**: compilers & program analysis for script performance optimizations.
+- **Programming Languages**: compilers & program analysis for script performance optimizations (resource-driven compilation, dynamic program optimization).
 
 🤝 I cherish intellectual discussions, knowledge exchange, and collaboration. Whether it's the above topics or anything else, feel free to strike up a conversation!
 
