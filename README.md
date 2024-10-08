@@ -12,7 +12,7 @@
 - Curating Music Playlists 🎶 (Especially Classic Rock and Indie Rock)
 
 📩 **Connect with Me**: 
-- Email: gliargovas [at] aueb [dot] gr
+- Email: g.liargkovas [at] columbia [dot] edu
 - [LinkedIn](https://www.linkedin.com/in/george-liargovas-796259175/)
 
 ---
